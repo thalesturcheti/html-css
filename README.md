@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://thalesturcheti.github.io/html-css/exerc%C3%ADcios/ex008/index.html">Executar o exercício 008
+<a href="https://thalesturcheti.github.io/html-css/exercícios/ex008/index.html">Executar o exercício 008
